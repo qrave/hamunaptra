@@ -1,0 +1,11 @@
+MMOEngine
+MMOCoreORB/bin/conf
+MMOCoreORB/bin/o_screenlog.0.gz
+MMOCoreORB/bin/o_screenlog.1.gz
+MMOCoreORB/bin/o_screenlog.2.gz
+MMOCoreORB/bin/o_screenlog.3.gz
+MMOCoreORB/bin/o_screenlog.4.gz
+MMOCoreORB/bin/o_screenlog.5.gz
+MMOCoreORB/bin/scripts/managers/resource_manager_spawns.lua
+luacov.report.out
+luacov.stats.out
