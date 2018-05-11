@@ -42,8 +42,8 @@
 
 --Determines how often exceptional and legendary items can drop.
 yellowChance = 500 -- 1 in 500
-exceptionalChance = 8500 --1 in 2,500
-legendaryChance = 14500 --1 in 3,500
+exceptionalChance = 3500 --1 in 2,500
+legendaryChance = 5500 --1 in 3,500
 --yellowChance = 50 --1 in 50 for testing
 --exceptionalChance = 100 --1 in 100 for testing
 --legendaryChance = 1000 --1 in 1000 for testing
